@@ -1,6 +1,5 @@
-  Hi My name is Abdi Adem. I am interested in pursuing a career in the field of data science. With a degree in Industrial Engineering 
-and an interest in analytics, it is only natural that I have a desire to get into data science, as there is quite an overlap between 
-engineering and data science with the use of analysis and problem solving. I am currently learning Python and other related skills needed 
-to become a data analyst.
+  Hi My name is Abdi Adem. I am an Industrial Engineering graduate, and some of my interests are in cloud computing, cybersecurity, programming, web design, blockchain technology, and data science. My projects currently are more on the data science side, but I am currently interested in pursuing projects related to my other interests (i.e. portfolio website, cloud deployment, keylogger).  
 
-You can reach me by email at abdi-adem@hotmail.com
+
+
+
